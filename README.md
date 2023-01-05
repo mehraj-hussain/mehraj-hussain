@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **mehraj-hussain/mehraj-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/mehraj-hussain-gounlimited...
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I like to talk mindlessly
--->
+
