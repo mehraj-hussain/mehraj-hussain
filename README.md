@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Challenging projects
 - 🤔 I’m looking for help with Finding good project to work on MERN Stack Web Developement
 - 💬 Ask me about the things i know
-- 📫 How to reach me: www.linkedin.com/in/mehraj-hussain-gounlimited...
+- 📫 How to reach me: www.linkedin.com/in/mehraj-hussain-gounlimited or https://twitter.com/home
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I like to talk mindlessly
 
